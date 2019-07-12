@@ -1,0 +1,240 @@
+
+body {
+
+	font-family: Helvetica;
+	font-size:16px;
+	font-weight: normal;
+    margin: 5px 10px;
+	line-height: 1.6em;
+	text-shadow: 2px 2px 1px black;
+	text-align: left;	
+}
+
+
+
+.pagination a {
+    border: 1px solid #ddd; /* Gray */
+}
+ .container {
+ 	 width:70%;
+ 	 margin:auto;
+ 	 text-align: left;
+ 	 padding: 5px 10px;
+ }
+
+/** decoration of the navigation bar **/
+.topnav {
+	 text-align: center;
+	 text-shadow: 2px 2px;
+	 overflow: hidden;
+	 mix-blend-mode: difference;
+}
+
+ .topnav a {
+ 	float: center;
+ 	color:#0000ff;
+ 	text-align: center;
+ 	padding: 10px 8px;
+    text-decoration: none;
+    text-shadow: 2px 2px 1px black;
+ }
+
+ 
+
+
+ a  {
+ 	float: center;
+ 	color:#FF6700;
+ 	text-align: center;
+ 	padding: 10px 8px;
+    font-size: 20px;
+    text-shadow: 2px 2px 1px black;
+    background-image: url("crumpled.jpg");
+ }
+
+
+
+a:active{
+  background-color: purple;
+}
+
+
+pre {
+	color:#FF6700;
+	margin: 10px 5px;
+	text-shadow: 2px 2px;
+	text-align: center;
+}
+
+
+h1 {
+	color:#FF6700;
+	text-align: center;
+	padding: 10px 5px;
+}
+
+h2 {
+	color:#ff0101;
+	text-align: center;
+	text-shadow: 2px 2px 1px black;
+	margin: 10px 10px;
+}
+
+h3, label, div{
+	color:#FF6700;
+	text-align: left;
+	font-size: 20px;
+	margin: 10px 10px;
+}
+
+
+
+h4{
+	color:#0000ff;
+	font-size: 20px;
+	text-align: left;
+	margin: 10px 10px
+}
+
+
+ul {
+	color:#ff0101;;
+	margin: 10px 10px;
+	font-size: 20px;
+	text-align: left;
+}
+
+
+
+ol {
+	color:#FF6700;
+	margin: 10px 10px;
+}
+
+
+table {
+	color:#FF6600;
+	margin: 10px 10px;
+}
+
+footer {
+	text-align: right;
+}
+
+
+
+.indexlink {
+	text-align: right;
+}
+
+.wrapper {
+	 display: grid;
+	 grid-template-columns: 70% 30%;
+	 grid-gap:1em;
+	 background-image: url("crumpled.jpg");
+}
+
+ .wrapper > div {
+ 	background: #eee
+ }
+
+  .wrapper > div: nth-child(odd){
+  	background:#ddd ;
+  }
+
+p {
+	padding: 0 20px 20px 20px;
+	color: #0079e7;
+	font-size: 27px;
+    box-shadow: 10px 10px 5px black;
+    border-radius: 15px 50px 30px 5px;
+}
+
+
+header {
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+    background-image: url("crumpled.jpg");
+}
+
+
+
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    word-break: break-all;
+}
+
+.row {
+    margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+    padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Content */
+.content {
+    background-color: white;
+    padding: 10px;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #708090; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:#0276FD; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0000ff; 
+}
+
+
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+    .column {
+        width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+

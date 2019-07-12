@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://d.umn.edu/~machl005/sitemap.xml
