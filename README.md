@@ -22,6 +22,34 @@ In other languages, like python, this construction would be called a dictionary 
 
 ### Convert a .jpeg, .gif, png to a .ico for website icon 
 
+
+
+### M E T A  tags 
+
+
+~~~~
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" type="image/x-icon" href="http://d.umn.edu/~machl005/BlueAbstract.ico">
+
+
+	
+<title> Johnathan Machlers Homepage</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+  <meta name="description" content="This is a meta tag desciption of Johnathan Machlers Website. 
+                                    If you are looking for content which is educational, that will occupy 
+                                    your freetime. You've come to the right place!">
+                                    
+  <meta name="keywords" content="Electronics,EE,puzzles">
+  <meta name="author" content="Johnathan Machler">
+ </head>
+ ~~~~
+ 
+ 
+ ```
+ The .ICO file is linked to to the .html index file through meta tag placed inside the header of the webpage.
+```
+
 ### Make the robots.txt file
 When a robot looks for the "/robots.txt" file for URL, it strips the path component from the URL (everything from the first single slash), and puts "/robots.txt" in its place.
 
