@@ -1,5 +1,5 @@
 # PersonalWebsite-
-A [link](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").
+A [Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").
 
 
 ## How to 
@@ -33,3 +33,4 @@ This too
 ```
 
 : Bookmarks.html from your browser
+Go into settings click bookmarks export bookmarks
