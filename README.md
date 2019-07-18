@@ -92,6 +92,15 @@ if you go to this [xml-sitemps.com](https://www.xml-sitemaps.com "sitemap.xml cr
 Thats all there is to it!
 ```
 
+### Upload website through Filezilla 
+
+
+### Arrange the file directory 
+
+
+### File permissions 
+
+
 ### Exporting bookmarks into Bookmarks.html from your browser
 * Go into settings 
 * click bookmarks 
