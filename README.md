@@ -5,6 +5,21 @@ A [Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Ma
 ## How to 
 
 
+
+### Construct the cascading style sheet .css file 
+
+~~~~
+p {
+  color: red;
+  text-align: center;
+}
+~~~~
+
+The antonomy of this code is that p is the selector 
+containing the properties color and text-align. Respectively, red and center correspond as values to these properties. 
+In other languages like python this construction would be called a dictionary which form of a data structure. 
+
+
 ### Convert a .jpeg, .gif, png to a .ico for website icon 
 
 ### Make the robots.txt file
