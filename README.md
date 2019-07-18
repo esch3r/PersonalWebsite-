@@ -92,7 +92,7 @@ if you go to this [xml-sitemps.com](https://www.xml-sitemaps.com "sitemap.xml cr
 Thats all there is to it!
 ```
 
-### Bookmarks.html from your browser
+### Exporting bookmarks into Bookmarks.html from your browser
 * Go into settings 
 * click bookmarks 
 * export bookmarks
