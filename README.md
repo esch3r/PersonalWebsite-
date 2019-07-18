@@ -7,7 +7,7 @@ A [Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Ma
 
 ### Convert a .jpeg, .gif, png to a .ico for website icon 
 
-### make the robots.txt file
+### Make the robots.txt file
 When a robot looks for the "/robots.txt" file for URL, it strips the path component from the URL (everything from the first single slash), and puts "/robots.txt" in its place.
 
 For example, for "http://www.example.com/shop/index.html, it will remove the "/shop/index.html", and replace it with "/robots.txt", and will end up with "http://www.example.com/robots.txt".
@@ -25,7 +25,7 @@ This too
 ```
 
 
-### a sitemap.xml file 
+### A sitemap.xml file 
 
 Generating a sitemap of your website is simple and easy. 
 if you go to this [xml-sitemps.com](https://www.xml-sitemaps.com "sitemap.xml creation page ").
