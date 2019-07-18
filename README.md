@@ -71,3 +71,17 @@ This too
 * Go into settings 
 * click bookmarks 
 * export bookmarks
+
+
+## Javascript Tutorial 
+
+
+~~~~
+User-agent: *
+Disallow:
+Sitemap: http://d.umn.edu/~machl005/sitemap.xml
+~~~~
+
+```
+This too
+```
