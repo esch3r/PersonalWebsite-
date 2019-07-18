@@ -63,9 +63,6 @@ Disallow:
 Sitemap: http://d.umn.edu/~machl005/sitemap.xml
 ~~~~
 
-```
-This too
-```
 
 
 ### A sitemap.xml file 
@@ -92,7 +89,7 @@ if you go to this [xml-sitemps.com](https://www.xml-sitemaps.com "sitemap.xml cr
 ~~~~
 
 ```
-This too
+Thats all there is to it!
 ```
 
 ### Bookmarks.html from your browser
@@ -111,6 +108,4 @@ x = 5; y = 6;      // How to assign values
 z = x + y;         // How to compute values
 ~~~~
 
-```
-This too
-```
+
