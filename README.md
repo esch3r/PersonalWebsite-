@@ -102,12 +102,13 @@ This too
 
 
 ## Javascript Tutorial 
-
+Inside webpages its common to have scripts which coordinate various activities and logics. 
+Below is some javascript syntax dissected to glean a more throughul understanding how its written. 
 
 ~~~~
-User-agent: *
-Disallow:
-Sitemap: http://d.umn.edu/~machl005/sitemap.xml
+var x, y, z;          // How to declare variables
+x = 5; y = 6;      // How to assign values
+z = x + y;         // How to compute values
 ~~~~
 
 ```
