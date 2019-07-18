@@ -33,6 +33,6 @@ This too
 ```
 
 : Bookmarks.html from your browser
-*Go into settings 
-*click bookmarks 
-*export bookmarks
+* Go into settings 
+* click bookmarks 
+* export bookmarks
