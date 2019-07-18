@@ -5,22 +5,9 @@ A [Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Ma
 ## How to 
 
 
-: Convert a .jpeg, .gif, png to a .ico for website icon 
+### Convert a .jpeg, .gif, png to a .ico for website icon 
 
-: make the robots.txt file
-
-~~~~
-This is a 
-piece of code 
-in a block
-~~~~
-
-```
-This too
-```
-
-
-: a sitemap.xml file 
+### make the robots.txt file
 
 ~~~~
 This is a 
@@ -32,7 +19,20 @@ in a block
 This too
 ```
 
-: Bookmarks.html from your browser
+
+### a sitemap.xml file 
+
+~~~~
+This is a 
+piece of code 
+in a block
+~~~~
+
+```
+This too
+```
+
+### Bookmarks.html from your browser
 * Go into settings 
 * click bookmarks 
 * export bookmarks
