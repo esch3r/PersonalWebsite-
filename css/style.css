@@ -6,6 +6,7 @@ body {
 	font-weight: normal;
         margin: 5px 10px;
 	line-height: 1.6em;
+	background: url(Images/slate2.jpg);
 	text-shadow: 2px 2px 1px black;
 	text-align: left;	
 }
