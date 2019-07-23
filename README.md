@@ -1,5 +1,5 @@
 # Construction of a personal website.
-[Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").
+[Here's a link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").  
 
 
 ## How to 
