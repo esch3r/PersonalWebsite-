@@ -1,4 +1,4 @@
-# PersonalWebsite-
+# Construction of a personal website.
 [Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").
 
 
