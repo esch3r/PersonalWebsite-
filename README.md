@@ -47,7 +47,7 @@ The purpose of these tags in html is to contain and encapsulate data about the d
  
  
  ```
- With each of these tags you can see  the different attributes for with the values Description, keywords, and author.
+ With each of these tags you can see  the different attributes for with the values description, keywords, and author.
 ```
 
 ### Make the robots.txt file
