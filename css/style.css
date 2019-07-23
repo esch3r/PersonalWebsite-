@@ -99,10 +99,11 @@ h4{
 
 
 ul {
-	color:#ff0101;;
+	color:#ff0101;
 	margin: 10px 10px;
 	font-size: 20px;
 	text-align: left;
+	list-style-type: square;
 }
 
 
