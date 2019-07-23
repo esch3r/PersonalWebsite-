@@ -48,16 +48,15 @@ body {
  	color:#FF6700;
  	text-align: center;
  	padding: 10px 8px;
-    font-size: 20px;
-    text-shadow: 2px 2px 1px black;
-    background-image: url("crumpled.jpg");
+        font-size: 20px;
+        text-shadow: 2px 2px 1px black;
  }
 
 
-
-a:active{
-  background-color: purple;
-}
+/**Neon Purple when hovering over a link      **/
+ a:hover {    
+ 	  color:  #000000;
+ }
 
 
 pre {
