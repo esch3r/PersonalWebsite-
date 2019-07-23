@@ -1,5 +1,5 @@
 # PersonalWebsite-
-A [Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").
+[Link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").
 
 
 ## How to 
