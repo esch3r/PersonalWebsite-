@@ -47,7 +47,7 @@ The purpose of these tags in html is to contain and encapsulate data about the d
  
  
  ```
- The .ICO file is linked to to the .html index file through meta tag placed inside the header of the webpage.
+ With each of these tags you can see  the different attributes for with the values Description, keywords, and author.
 ```
 
 ### Make the robots.txt file
