@@ -24,7 +24,7 @@ p {
 
 
 
-### M E T A  tags 
+### Setup meta tags 
 The purpose of these tags in html is to contain and encapsulate data about the data within the rest of the file. This is not just a trivial thing for someone searching your website to see the header information ranked on google. It is also for webcrawlers like google to determine where your website belongs in a keyword space.  To take advantage of the search engine optimization algorithms google uses these Meta tags must be well thought out as to connect the source content with a target audience.
 
 ~~~~
