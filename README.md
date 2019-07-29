@@ -9,7 +9,7 @@
 ### Construct the cascading style sheet .css file 
 The antonomy of this code is that p is the selector 
 containing the properties color and text-align. Respectively, red and center correspond as values to these properties. 
-In other languages, like python, this construction would be called a dictionary which form of a data structure. 
+In other languages, like Python, this construction would be called a dictionary which form of a data structure. 
 
 ~~~~
 p {
