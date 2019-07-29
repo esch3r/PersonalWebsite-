@@ -107,6 +107,8 @@ Every file and directory in your UNIX/Linux system has following 3 permissions d
 
 * Execute: In Windows, an executable program usually has an extension ".exe" and which you can easily run. In Unix/Linux, you cannot run a program unless the execute permission is set. If the execute permission is not set, you might still be able to see/modify the program code(provided read & write permissions are set), but not run it.
 
+![File Permissions](FilePermissions.png)
+
 ### Exporting bookmarks into Bookmarks.html from your browser
 * Go into settings 
 * click bookmarks 
