@@ -16,6 +16,35 @@ E.g. http://d.umn.edu/~machl005
 * Domain :  d.umn.edu is the domain part of the address which hosts the webpage.
 * Path:    /~machl005  is the directory path in this case its to a home indicated by the tilde ~ to a paricular user. 
 
+
+### Construct the HTML page .html file 
+The common main setup of tags you wiil need for any website is what is seen below. 
+
+~~~~
+<!DOCTYPE html>
+<!-- saved from url=(0037)http://d.umn.edu/~machl005/index.html -->
+<html>
+<head>
+	
+  <title> Put your title here </title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="description" content="">                              
+  <meta name="keywords" content="">
+  <meta name="author" ">
+</head>
+<body>
+<h1> Title as seen on page </h1>
+<h2>  Somewhat important stuff less slightly less important than the 'h1' tag </h2>
+<div> 
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+</p>
+</div>
+</body>
+</html>
+~~~~
+
+
 ### Construct the cascading style sheet .css file 
 The antonomy of this code is that p is the selector 
 containing the properties color and text-align. Respectively, red and center correspond as values to these properties. 
