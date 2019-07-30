@@ -22,6 +22,8 @@ Looking at the fields that need to be filled out in FileZilla you can see how th
 are all interlinked.  When loggining in and uploading the folder consistenting of all the interlinked files for the website port 22 is used corresponding to the use of the SFTP protocol. 
 
 ### Construct the HTML page .html file 
+Getting started 
+
 The common main setup of tags you wiil need for any website is what is seen below. 
 
 ~~~~
@@ -161,7 +163,7 @@ Commonly, these are the two most used defaults in a directory:
 * export bookmarks
 
 
-## Run scripting languages within the website 
+### Run scripting languages within the website 
 Inside webpages its common to have scripts which coordinate various activities and logics. 
 In this particular instance, these scripts have on the website is really minor most the time though languages like 
 JavaScript and SQL coordinate backend activities to fetch data from databases and APIs to update the site in realtime. In 
@@ -178,4 +180,16 @@ this sense these scripting is important because it makes your site much more flu
 ```
 In the directory the scripts  DataTime.js  and VistorCounter.js need to be within scope, so that the html can run the scripts within the page.
 ```
+
+### Embed social media posts and videos on a website
+To get the embedded links hit share (which usually has a ... or an arrow icon) then embed should be one of the options in the pulldown.
+~~~~
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkXOxLpdMds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+~~~~
+```
+Youtube video embedding with an <iframe> tag.
+```
+
+
+
 
