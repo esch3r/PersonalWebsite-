@@ -16,6 +16,10 @@ E.g. http://d.umn.edu/~machl005
 * Domain :  d.umn.edu is the domain part of the address which hosts the webpage.
 * Path:    /~machl005  is the directory path in this case its to a home indicated by the tilde ~ to a paricular user. 
 
+![File Permissions](FileZilla.PNG)
+
+Looking at the fields that need to be filled out in FileZilla you can see how the anatomy of a website, the login, and the directory 
+are all interlinked. 
 
 ### Construct the HTML page .html file 
 The common main setup of tags you wiil need for any website is what is seen below. 
