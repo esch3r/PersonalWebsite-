@@ -6,13 +6,15 @@
 
 
 ### Dissect a URL address 
-URL stands for universal resource indicator 
+URL stands for universal resource indicator. Whenever someone types in an physical address which consists of a string of 
+letters into their browser the DNS (domain name service) servers resolve this into an IP address which is used to route where to 
+recieve the packets to assembly the content within the browser.
 
 http://d.umn.edu/~machl005
 
 * Protocal: http  is the protocal for this address which means 
-* Domain :  d.umn.edu is the domain part of the address 
-* Path:    /~machl005  is the directory path in this case its to a home indicated by the tilde ~ to a paricular user 
+* Domain :  d.umn.edu is the domain part of the address which hosts the webpage.
+* Path:    /~machl005  is the directory path in this case its to a home indicated by the tilde ~ to a paricular user. 
 
 ### Construct the cascading style sheet .css file 
 The antonomy of this code is that p is the selector 
