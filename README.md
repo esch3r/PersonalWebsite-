@@ -12,7 +12,7 @@ recieve the packets to assembly the content within the browser.
 
 E.g. http://d.umn.edu/~machl005
 
-* Protocal: http is a portocol which the packets are transmitted from in this case, port 80 is used.
+* Protocal: http is a portocol, which the packets are transmitted from in this case, port 80 is used.
 * Domain :  d.umn.edu is the domain part of the address which hosts the webpage.
 * Path:    /~machl005  is the directory path in this case its to a home indicated by the tilde ~ to a paricular user. 
 
