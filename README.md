@@ -109,6 +109,8 @@ Every file and directory in your UNIX/Linux system has following 3 permissions d
 
 ![File Permissions](FilePermissions.png)
 
+In FileZilla if you right click and select file permissions you can edit the file attributes assigning a specific numerical value  (base 10) which corresponds to the range of file permissions it is in binary. 
+
 ### Exporting bookmarks into Bookmarks.html from your browser
 * Go into settings 
 * click bookmarks 
