@@ -12,14 +12,14 @@ recieve the packets to assembly the content within the browser.
 
 E.g. http://d.umn.edu/~machl005
 
-* Protocal: http  is the protocal for this address which means 
+* Protocal: http is a portocol which the packets are transmitted from in this case, port 80 is used.
 * Domain :  d.umn.edu is the domain part of the address which hosts the webpage.
 * Path:    /~machl005  is the directory path in this case its to a home indicated by the tilde ~ to a paricular user. 
 
 ![File Permissions](FileZilla.PNG)
 
 Looking at the fields that need to be filled out in FileZilla you can see how the anatomy of a website, the login, and the directory 
-are all interlinked. 
+are all interlinked.  When loggining in and uploading the folder consistenting of all the interlinked files for the website port 22 is used corresponding to the use of the SFTP protocol. 
 
 ### Construct the HTML page .html file 
 The common main setup of tags you wiil need for any website is what is seen below. 
