@@ -65,6 +65,7 @@ p {
 ### Convert a .jpeg, .gif, png to a .ico for website icon 
 
 
+## Get ranked
 
 ### Setup meta tags 
 The purpose of these tags in html is to contain and encapsulate data about the data within the rest of the file. This is not just a trivial thing for someone searching your website to see the header information ranked on google. It is also for webcrawlers like google to determine where your website belongs in a keyword space.  To take advantage of the search engine optimization algorithms google uses these Meta tags must be well thought out as to connect the source content with a target audience.
@@ -156,6 +157,8 @@ In FileZilla, if you right click and select file permissions you can edit the fi
 Commonly, these are the two most used defaults in a directory: 
 * Folders – 755
 * Files – 644
+
+## Link content
 
 ### Exporting bookmarks into Bookmarks.html from your browser
 * Go into settings 
