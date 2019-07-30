@@ -131,14 +131,22 @@ Commonly these are the two most used defaults in a directory:
 * export bookmarks
 
 
-## Javascript Tutorial 
+## Run scripting languages within the website 
 Inside webpages its common to have scripts which coordinate various activities and logics. 
 Below is some javascript syntax dissected to glean a more throughul understanding how its written. 
+In this particular the function these scripts have on the website is really minor most the time though languages like 
+JavaScript and SQL coordinate backend activities to fetch data from databases and APIs to update the site in realtime. In 
+this sense these scripting is important because it makes your site much more fluid. 
 
 ~~~~
-var x, y, z;          // How to declare variables
-x = 5; y = 6;      // How to assign values
-z = x + y;         // How to compute values
+<footer id="Main-footer">
+          <h4>Date/Time: <span id="datetime"></span></h4> 
+          <script src="DateTime.js"></script>
+	  <script src="VistorCounter.js"></script>
+</footer>   
 ~~~~
 
+```
+In the directory the scripts  DataTime.js  and VistorCounter.js need to be within scope, so that the html can run the scripts within the page.
+```
 
