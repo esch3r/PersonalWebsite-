@@ -10,7 +10,7 @@ URL stands for universal resource indicator. Whenever someone types in an physic
 letters into their browser the DNS (domain name service) servers resolve this into an IP address which is used to route where to 
 recieve the packets to assembly the content within the browser.
 
-http://d.umn.edu/~machl005
+E.g. http://d.umn.edu/~machl005
 
 * Protocal: http  is the protocal for this address which means 
 * Domain :  d.umn.edu is the domain part of the address which hosts the webpage.
