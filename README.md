@@ -36,9 +36,7 @@ The common main setup of tags you wiil need for any website is what is seen belo
 <h1> Title as seen on page </h1>
 <h2>  Somewhat important stuff less slightly less important than the 'h1' tag </h2>
 <div> 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-</p>
+<p> A full paragraph goes here.</p>
 </div>
 </body>
 </html>
@@ -47,7 +45,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Construct the cascading style sheet .css file 
 The antonomy of this code is that p is the selector 
-containing the properties color and text-align. Respectively, red and center correspond as values to these properties. 
+containing the properties color and text-align. Precedence of each of these instances is from top down 
+
+Respectively, red and center correspond as values to these properties. 
 In other languages, like Python, this construction would be called a dictionary which form of a data structure. 
 
 ~~~~
