@@ -64,6 +64,28 @@ p {
 
 ### Convert a .jpeg, .gif, png to a .ico for website icon 
 
+### Arrange the file directory
+    setup a file tree 
+    
+### Upload website through Filezilla 
+
+
+### File permissions 
+Every file and directory in your UNIX/Linux system has following 3 permissions defined for all the 3 owners discussed above.
+
+* Read: This permission give you the authority to open and read a file. Read permission on a directory gives you the ability to lists its content.
+
+* Write: The write permission gives you the authority to modify the contents of a file. The write permission on a directory gives you the authority to add, remove and rename files stored in the directory. Consider a scenario where you have to write permission on file but do not have write permission on the directory where the file is stored. You will be able to modify the file contents. But you will not be able to rename, move or remove the file from the directory.
+
+* Execute: In Windows, an executable program usually has an extension ".exe" and which you can easily run. In Unix/Linux, you cannot run a program unless the execute permission is set. If the execute permission is not set, you might still be able to see/modify the program code(provided read & write permissions are set), but not run it.
+
+![File Permissions](FilePermissions.png)
+
+In FileZilla, if you right click and select file permissions you can edit the file attributes assigning a specific numerical value  (in octal), which corresponds to the range of file permissions in binary. 
+
+Commonly, these are the two most used defaults in a directory: 
+* Folders – 755
+* Files – 644
 
 ## Get ranked
 
@@ -135,30 +157,13 @@ if you go to this [xml-sitemps.com](https://www.xml-sitemaps.com "sitemap.xml cr
 Thats all there is to it!
 ```
 
-### Upload website through Filezilla 
 
 
-### Arrange the file directory 
 
-
-### File permissions 
-Every file and directory in your UNIX/Linux system has following 3 permissions defined for all the 3 owners discussed above.
-
-* Read: This permission give you the authority to open and read a file. Read permission on a directory gives you the ability to lists its content.
-
-* Write: The write permission gives you the authority to modify the contents of a file. The write permission on a directory gives you the authority to add, remove and rename files stored in the directory. Consider a scenario where you have to write permission on file but do not have write permission on the directory where the file is stored. You will be able to modify the file contents. But you will not be able to rename, move or remove the file from the directory.
-
-* Execute: In Windows, an executable program usually has an extension ".exe" and which you can easily run. In Unix/Linux, you cannot run a program unless the execute permission is set. If the execute permission is not set, you might still be able to see/modify the program code(provided read & write permissions are set), but not run it.
-
-![File Permissions](FilePermissions.png)
-
-In FileZilla, if you right click and select file permissions you can edit the file attributes assigning a specific numerical value  (in octal), which corresponds to the range of file permissions in binary. 
-
-Commonly, these are the two most used defaults in a directory: 
-* Folders – 755
-* Files – 644
 
 ## Link content
+
+
 
 ### Exporting bookmarks into Bookmarks.html from your browser
 * Go into settings 
