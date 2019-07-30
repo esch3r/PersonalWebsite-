@@ -5,6 +5,14 @@
 ## How to 
 
 
+### Dissect a URL address 
+URL stands for universal resource indicator 
+
+http://d.umn.edu/~machl005
+
+* Protocal: http  is the protocal for this address which means 
+* Domain :  d.umn.edu is the domain part of the address 
+* Path:    /~machl005  is the directory path in this case its to a home indicated by the tilde ~ to a paricular user 
 
 ### Construct the cascading style sheet .css file 
 The antonomy of this code is that p is the selector 
