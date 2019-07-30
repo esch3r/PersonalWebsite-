@@ -119,9 +119,9 @@ Every file and directory in your UNIX/Linux system has following 3 permissions d
 
 ![File Permissions](FilePermissions.png)
 
-In FileZilla if you right click and select file permissions you can edit the file attributes assigning a specific numerical value  (in octal) which corresponds to the range of file permissions it is in binary. 
+In FileZilla, if you right click and select file permissions you can edit the file attributes assigning a specific numerical value  (in octal), which corresponds to the range of file permissions in binary. 
 
-Commonly these are the two most used defaults in a directory: 
+Commonly, these are the two most used defaults in a directory: 
 * Folders – 755
 * Files – 644
 
@@ -133,8 +133,7 @@ Commonly these are the two most used defaults in a directory:
 
 ## Run scripting languages within the website 
 Inside webpages its common to have scripts which coordinate various activities and logics. 
-Below is some javascript syntax dissected to glean a more throughul understanding how its written. 
-In this particular the function these scripts have on the website is really minor most the time though languages like 
+In this particular instance, these scripts have on the website is really minor most the time though languages like 
 JavaScript and SQL coordinate backend activities to fetch data from databases and APIs to update the site in realtime. In 
 this sense these scripting is important because it makes your site much more fluid. 
 
