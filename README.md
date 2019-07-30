@@ -75,6 +75,8 @@ Sitemap: http://d.umn.edu/~machl005/sitemap.xml
 <span style="color:red"> **Why does this matter? It matters because it adds legitimacy from the perspective of the search 
 engine. ** text</span> 
 
+<font color='red'>test blue color font</font>
+
 
 ### A sitemap.xml file 
 
