@@ -27,7 +27,7 @@ are all interlinked.  When loggining in and uploading the folder consistenting o
 ### Construct the HTML page .html file 
 Getting started 
 
-The common main setup of tags you wiil need for any website is what is seen below. 
+The common main setup of tags you will need for any website is what is seen below. 
 
 ~~~~
 <!DOCTYPE html>
