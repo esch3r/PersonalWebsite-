@@ -1,6 +1,4 @@
 # Construction of a personal website.
-=================================================================================================================
-[Here's a link to Johnathan Machler's webpage](http://d.umn.edu/~machl005 "Johnathan Machlers webpage").
 
 [![image](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://fsfe.org/campaigns/gplv3/gplv3.es.html)
 [![image](https://img.shields.io/badge/language-CSS-blue.svg)](https://www.w3schools.com/css/)
@@ -20,7 +18,7 @@ recieve the packets to assembly the content within the browser.
 
 scheme://prefix.domain:port/path/filename
 
-E.g. http://d.umn.edu/~machl005
+E.g. http://d.umn.edu/~machl005/
 
 * Scheme : http is a portocol, which the packets are transmitted from in this case, port 80 is used.
 * Domain :  d.umn.edu is the domain part of the address which hosts the webpage.
