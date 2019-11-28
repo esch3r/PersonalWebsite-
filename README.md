@@ -160,9 +160,8 @@ if you go to this [xml-sitemps.com](https://www.xml-sitemaps.com "sitemap.xml cr
 </urlset>
 ~~~~
 
-```
-Thats all there is to it!
-```
+> Thats all there is to it!
+
 
 
 
@@ -207,6 +206,21 @@ Youtube video embedding with an <iframe> tag.
 
 
 ## Setup a server
+1. Go to www.apache.org and download the latest version of Apache's webserver.
+2. Install Apache.
+3.  In the installation process you will get a screen asking you for your domain name, network name, and e-mail address. You can add    anything in these fields. Add them in this format:
+* Domain name: website.com
+* Network name: www.website.com
+* E-mail address: username@website.com
+
+4. Once you click Next, you will see a screen asking you what webserver this is. You can choose Apache from the radio button list
+5. You will get an error message after telling you "Apache could not be configured." "Edit you Apache.conf file"
+6. Next go to Start-Programs-Apache HTTP server <version number>
+7. Choose "Configure Apache Server".
+8. Choose "Edit the apache.conf configuration file".
+9. Go to Document Root "drive:/location"
+10. Change the document root to point to the location of your website folder in the notion noted above using / instead of \.
+
 
 
 
