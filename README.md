@@ -4,8 +4,6 @@
 [![image](https://img.shields.io/badge/language-HTML5-orange.svg)](https://www.w3schools.com/html/default.asp)
 [![image](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.w3schools.com/js/)
 
-
-
 ## How to 
 
 
