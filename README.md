@@ -56,7 +56,7 @@ The common main setup of tags you will need for any website is what is seen belo
 
 ### Construct the cascading style sheet .css file 
 The antonomy of this code is that p is the selector 
-containing the properties color and text-align. Precedence of each of these instances is from bottom up meaning that things at the bottom could overwrite styling done at the top hence the aspect of the name 'cascading'.Respectively, red and center correspond as values to these properties. In other languages, like Python, this construction would be called a dictionary which form of a data structure. 
+containing the properties color and text-align. Precedence of each of these instances is from bottom up meaning that things at the bottom could overwrite styling done at the top hence the aspect of the name 'cascading'.Respectively, red and center correspond as values to these properties. In other languages, like Python, this construction would be called a dictionary which form of a data structure. This is one useful way of conceptualizing it because for each attribute associated with the tag <p> </p> there is a corresponding value. In this instance attribute color to the property red. 
 
 ~~~~
 p {
