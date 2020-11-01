@@ -220,5 +220,7 @@ Youtube video embedding with an <iframe> tag.
 10. Change the document root to point to the location of your website folder in the notion noted above using / instead of \.
 
 
-
+## Adding an SSL certificate
+[Guide to SSL certificates](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/).
+[Getting started with SSL certificates](https://letsencrypt.org/getting-started/).
 
