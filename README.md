@@ -14,7 +14,7 @@ recieve the packets to assembly the content within the browser.
 
 
 scheme://prefix.domain:port/path/filename
-scheme]://[Domain][Port]/[path]?[queryString]#[fragmentId]
+[scheme]://[Domain][Port]/[path]?[queryString]#[fragmentId]
 
 E.g. http://d.umn.edu/~machl005/
 
