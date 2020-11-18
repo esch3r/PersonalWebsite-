@@ -221,6 +221,7 @@ Youtube video embedding with an <iframe> tag.
 
 
 ## Adding an SSL certificate
-[Guide to SSL certificates](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/).
-[Getting started with SSL certificates](https://letsencrypt.org/getting-started/).
+- [Guide to SSL certificates](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/).
+- [Getting started with SSL certificates](https://letsencrypt.org/getting-started/).
+- [Mounting on a server as if its a drive using SSHFS](https://linuxize.com/post/how-to-use-sshfs-to-mount-remote-directories-over-ssh/)
 
